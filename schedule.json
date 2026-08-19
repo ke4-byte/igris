@@ -1,0 +1,20 @@
+[
+  {
+    "summary": "[IGRIS-TASK] Unfollow Session Batch #1",
+    "description": "Bot Igris execution window. Max Batch: 15 targets. Delay interval: 120-180s.",
+    "start": { "dateTime": "2026-08-19T09:22:00Z" },
+    "end": { "dateTime": "2026-08-19T09:47:00Z" }
+  },
+  {
+    "summary": "[IGRIS-TASK] Unfollow Session Batch #2",
+    "description": "Bot Igris execution window. Max Batch: 15 targets. Delay interval: 120-180s.",
+    "start": { "dateTime": "2026-08-19T12:41:00Z" },
+    "end": { "dateTime": "2026-08-19T13:06:00Z" }
+  },
+  {
+    "summary": "[IGRIS-TASK] Unfollow Session Batch #3",
+    "description": "Bot Igris execution window. Max Batch: 15 targets. Delay interval: 120-180s.",
+    "start": { "dateTime": "2026-08-19T15:25:00Z" },
+    "end": { "dateTime": "2026-08-19T15:50:00Z" }
+  }
+]
